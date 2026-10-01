@@ -59,8 +59,8 @@ body:
   
         For VictoriaTraces health-state issues please provide full-length screenshots
         of Grafana dashboards if possible:
-          * [Grafana dashboard for single-node VictoriaLogs](https://grafana.com/grafana/dashboards/22084)
-          * [Grafana dashboard for VictoriaLogs cluster](https://grafana.com/grafana/dashboards/23274)
+          * [Grafana dashboard for single-node VictoriaTraces](https://grafana.com/grafana/dashboards/24136)
+          * [Grafana dashboard for VictoriaTraces cluster](https://grafana.com/grafana/dashboards/24134)
         
         See [how to setup monitoring](https://docs.victoriametrics.com/victoriatraces/#monitoring)
     validations:

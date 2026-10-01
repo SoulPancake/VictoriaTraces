@@ -14,7 +14,7 @@ services:
     depends_on:
       - vmauth
 
-  # Grafana instance configured with VictoriaLogs as datasource
+  # Grafana instance configured with VictoriaTraces (Jaeger and Tempo) datasources
   grafana:
     image: grafana/grafana:12.4.3
     depends_on:
